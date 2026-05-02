@@ -32,6 +32,10 @@ Contains ~2600 daily records:
 - Sentiment classification (Fear, Greed, etc.)
 - Sentiment score (0–100)
 
+#### Links to download Datasets
+1.Historical Data - https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+2.Fear-Greed Index Data - https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
 ---
 
 ## 🎯 Objectives
